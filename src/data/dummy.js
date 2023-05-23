@@ -23,9 +23,13 @@ import {
   BsShield,
   BsChatLeft,
 } from "react-icons/bs";
-import { RiNewspaperLine }from "react-icons/ri";
+import { RiNewspaperLine } from "react-icons/ri";
 import { BiColorFill } from "react-icons/bi";
-import { TbRosetteNumber1, TbRosetteNumber2, TbRosetteNumber3 } from "react-icons/tb";
+import {
+  TbRosetteNumber1,
+  TbRosetteNumber2,
+  TbRosetteNumber3,
+} from "react-icons/tb";
 import { IoMdContacts } from "react-icons/io";
 import { RiContactsLine, RiStockLine } from "react-icons/ri";
 import { MdOutlineSupervisorAccount } from "react-icons/md";
@@ -523,7 +527,7 @@ export const links = [
       {
         name: "editor",
         icon: <FiEdit />,
-      }
+      },
     ],
   },
   {
